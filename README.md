@@ -121,7 +121,3 @@ Contributions are welcome! Please submit a Pull Request if you'd like to improve
 ---
 
 Developed by **Amr Tamer**. 🚀  
-
----
-
-Let me know if you want any modifications! 💡🔥  
